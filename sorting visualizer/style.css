@@ -1,0 +1,23 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+#container{
+    display:flex;
+    justify-content:space-around;
+    background-color: rgb(105, 237, 182);
+    border: 5px solid rgb(128, 0, 128);
+}
+#t{
+    text-align: center;
+}
+#btncon{
+    background-color: aquamarine;
+    border: 5px solid rgb(128, 0, 128);
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+.btn{
+    padding:7px;
+}
